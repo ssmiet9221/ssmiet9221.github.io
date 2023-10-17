@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/ssmiet/main_site_files/
+ - export DEPLOYPATH=/home/ssmiet/public_html/
  - /bin/cp -r * $DEPLOYPATH
