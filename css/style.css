@@ -1536,8 +1536,8 @@ p, li, a, span, table, tr, td, th, label{
    transition: all 0.5s ease;
 }
 .accr img {
-   width: 150px;
-   height: 150px;
+   width: 130px;
+   height: 130px;
    padding-right: 10px;
    padding-left: 2px;
    padding-top: 10px;
@@ -1586,8 +1586,8 @@ p, li, a, span, table, tr, td, th, label{
    align-items: center;    
    overflow:hidden        ;
    background: #f26838;
-   height: 180px;
-   width: 180px;
+   height: 200px;
+   width: 200px;
    margin-bottom: 30px;
 margin-right: 20px;
 margin-left: 20px;
@@ -1621,24 +1621,23 @@ margin-left: 20px;
 .place-text h2{
    font-size: 80px;
    color: #ffffff;
-  position: relative;
-  padding-top: 20px;
-  
+text-align: center;
   animation: fadeIn 1s ease-in; 
 }
 .place-text h3{
-   font-size: 20px;
-    
+   font-size: 30px;
     color: black;
-    margin-top: 80px;
     text-align: center;
-  padding-top: 20px;
-  animation: fadeIn 2s ease-in; 
+    margin-top: -10px;
+    animation: fadeIn 1s ease-in;
 }
+  
 .place-text h4{
-   font-size: 20px;
+   font-size: 25px;
    text-align: center;
     color: #000000;  
+    margin-top: 15px;
+    animation: fadeIn 1s ease-in;
 }
 .places-text h4{
    font-size: 20px;
