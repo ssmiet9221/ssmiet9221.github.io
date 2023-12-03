@@ -3242,17 +3242,17 @@ text-align: center;
     left: 0px;
 }
 .mm-posi{
-   
+   align-items: center;
    position: absolute;
-   width: 800px;
-   left: 0px;
-   right: 0px;
+   width: 650px;
+   left: 550px;
+   
 }
 .mm-posit{
   align-items: center;
    position: absolute;
    width: 800px;
-   left: 0px;
+   left: 400px;
 }
 .about-mm, .admi-mm, .cour-mm{
     display:none;
@@ -3310,24 +3310,19 @@ text-align: center;
    padding-top: 30px;
    display: inline-block;
 }
-.mm1-s1{width: 450px;
+.mm1-s1{width: 500px;
 }
 .mm1-s1 img{
     width: 100%;
 }
-.mm1-s2{width: 420px;
+.mm1-s2{width: 400px;
 }
-.mm1-s2 p{
-    font-size: 12px;
-    color: #203245;
-}
-.mm1-s2 a{
-}
+
 .mm1-s3{width:500px;
 }
 .mm1-s4{width:200px;
 }
-.mm1-s5{width:550px;
+.mm1-s5{width:400px;
 }
 .mm1-s3 ul{
 }
