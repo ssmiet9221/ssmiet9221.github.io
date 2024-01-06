@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "msjsdiag.debugger-for-chrome",
-        "msjsdiag.debugger-for-chrome-nightly"
+        "msjsdiag.debugger-for-chrome"
     ]
 }
