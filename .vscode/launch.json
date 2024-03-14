@@ -15,3 +15,28 @@
 
     ]
 }*/
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Launch Signup Form",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://myclient.dev/signup-form",
+            "sourceMaps": true,
+            "webRoot": "../../..",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222"
+            ]
+        },
+    
+        {
+            "name": "Attach",
+            "type": "chrome",
+            "request": "attach",
+            "port": 9222
+        }
+    ]
+    }
